@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-virtualhost",
+  "version": "1.0.0",
+  "description": "nodejs http,https 가상호스트",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "vhost": "^3.0.2",
+    "vhttps": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/star4899/nodeJS-virtualHost.git"
+  },
+  "author": "skydown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/star4899/nodeJS-virtualHost/issues"
+  },
+  "homepage": "https://github.com/star4899/nodeJS-virtualHost#readme"
+}
